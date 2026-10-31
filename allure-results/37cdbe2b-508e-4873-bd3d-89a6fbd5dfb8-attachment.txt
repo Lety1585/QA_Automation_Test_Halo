@@ -1,0 +1,4 @@
+.........Console Logs.........
+
+PNG exists? true
+SCENARIO FAILED / CRASHED: Login with invalid credentials
